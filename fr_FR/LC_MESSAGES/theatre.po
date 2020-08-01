@@ -14,7 +14,7 @@ msgid "SUDOMEMO_SHOP"
 msgstr "Boutique Sudomemo"
 
 msgid "SUDOMEMO_SHOP_META_DESCRIPTION"
-msgstr "Boutique Sudomemo : marchandise de Sudomemo, des tickets pour Sudomemo Plus et des Étoiles, et d'autres choses amusantes !"
+msgstr "Boutique Sudomemo : bonus de Sudomemo, des tickets pour Sudomemo Plus et des Étoiles, et d'autres choses formidables !"
 
 msgid "DEFAULT_META_DESCRIPTION"
 msgstr "Sudomemo : partagez vos Flipnotes avec le monde entier ! Pour Nintendo DSi et 3DS."
@@ -40,12 +40,12 @@ msgstr "%s - %s fans, %s Flipnotes sur Sudomemo"
 # Wednesday, December 3rd, 2019
 # Used for news articles
 msgid "DATETIME_WEEKDAY_MONTH_DAY_ORDINAL_YEAR_FORMAT"
-msgstr "l jS F Y"
+msgstr "A d B Y"
 
 # November 29th, 2019 08:23:07
 # Used for Flipnote Details
 msgid "DATETIME_MONTH_DAY_ORDINAL_HOUR_MINUTE_SECOND_FORMAT"
-msgstr "jS F Y, h:i:s"
+msgstr "d B Y I:M:S"
 
 # Very common terms and one-word translations
 
@@ -158,7 +158,7 @@ msgid "RELEASED"
 msgstr "Released"
 
 msgid "RANK"
-msgstr "Rang"
+msgstr "Échelon"
 
 msgid "RECENT"
 msgstr "Récent"
@@ -401,7 +401,7 @@ msgstr "L'envoi du commentaire a échoué..."
 ## Right sidebar
 
 msgid "FRONTPAGE_FLIPNOTE_SPOTLIGHT"
-msgstr "Flipnote en lumière"
+msgstr "Flipnote sous la lumière"
 
 msgid "FRONTPAGE_TRENDING_CREATORS"
 msgstr "Créateurs tendance"
@@ -487,7 +487,7 @@ msgid "FOLLOW"
 msgstr "Suivre"
 
 msgid "FOLLOWERS"
-msgstr "Abonnés"
+msgstr "Fans"
 
 ## はてなID
 msgid "HATENA_ID"
@@ -536,7 +536,7 @@ msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "Vous éditez cette Flipnote :"
 
 msgid "DESCRIPTION_WILL_GO_HERE"
-msgstr "Votre description ira ici."
+msgstr "Votre description s'affichera ici."
 
 msgid "COULD_NOT_SAVE_DETAILS"
 msgstr "Impossible de sauvegarder les détails"
@@ -584,7 +584,7 @@ msgid "EDIT_PAGE_ABOUT_MUSICMATCH_3"
 msgstr "Si vous mettez à jour la chanson, MusicMatch apprendra de cette information pour mieux détecter les chansons des Flipnotes à l'avenir."
 
 msgid "EDIT_PAGE_MUSICMATCH_NO_BGM"
-msgstr "Votre Flipnote n'a pas de piste audio en arrière-plan."
+msgstr "Votre Flipnote n'a pas de piste audio en fond."
 
 msgid "EDIT_PAGE_MUSICMATCH_UNMATCHED"
 msgstr "MusicMatch n'a pas pu trouver de chanson correspondant à votre Flipnote."
@@ -711,7 +711,7 @@ msgid "BROWSE_SONG_YOU_ARE_BROWSING_SONG"
 msgstr "Voir les Flipnotes avec la chanson %s de %s"
 
 msgid "TROPHY_CASE"
-msgstr "Vitrine à trophées"
+msgstr "Vitrine des trophées"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 
@@ -743,7 +743,7 @@ msgid "BTN_SIGN_IN_WITH_GOOGLE"
 msgstr "Se connecter avec Google"
 
 msgid "YOUTUBE_ACCOUNT_UNVERIFIED"
-msgstr "Compte non vérifié"
+msgstr "Compte non-vérifié"
 
 msgid "YOUTUBE_ACCOUNT_VERIFIED"
 msgstr "Compte vérifié"
@@ -768,13 +768,13 @@ msgid "YOUTUBE_EXTRA_DESCRIPTION_TEXT_EXPLANATION"
 msgstr "Ce texte sera affiché lorsque les spectateurs cliqueront sur 'Voir plus' dans la description de votre vidéo."
 
 msgid "YOUTUBE_TAGS"
-msgstr "Tags"
+msgstr "Mots-clés"
 
 msgid "YOUTUBE_TAGS_HINT"
-msgstr "Des tags, séparés par des virgules."
+msgstr "Des mots-clés, séparés par des virgules."
 
 msgid "YOUTUBE_TAGS_EXPLANATION"
-msgstr "Entrez une virgule après chaque tag"
+msgstr "Entrez une virgule après chaque mot-clé"
 
 msgid "YOUTUBE_LOOP_COUNT"
 msgstr "Nombre de lectures"
