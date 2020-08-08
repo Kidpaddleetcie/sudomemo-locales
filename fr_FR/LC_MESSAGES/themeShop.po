@@ -5,7 +5,7 @@ msgid "THEME_SHOP_MAINPAGE_HEADER"
 msgstr "Ici,au Magasin à Thèmes, tu peux acheter de nouveaux thèmes pour ta Salle de Créateur!"
 
 msgid "THEME_SHOP_LEARN_MORE_HEADER"
-msgstr "En apprendre d'avantage sur le Masasin à Thèmes"
+msgstr "En apprendre d'avantage sur le Magasin à Thèmes"
 
 msgid "THEME_SHOP_REPORT_ISSUES_HEADER"
 msgstr "Tapotez ce lien pour signaler un thème qui ne fonctionne pas bien."
