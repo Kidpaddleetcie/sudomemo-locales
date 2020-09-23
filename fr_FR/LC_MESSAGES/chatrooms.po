@@ -25,7 +25,7 @@ msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
 msgstr "Vous devez être identifié pour poster un message sur le chat."
 
 msgid "CHAT_REPLY_FAILED"
-msgstr "L'envoi de la réponse sur le chat a échoué. Veuillez réesayer plus tard."
+msgstr "L'envoi de la réponse sur le chat a échoué. Veuillez réessayer plus tard."
 
 msgid "NO_BLANK_MESSAGES_ALLOWED"
 msgstr "Vous ne pouvez pas poster de message vide."
