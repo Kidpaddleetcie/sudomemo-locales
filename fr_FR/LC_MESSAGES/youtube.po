@@ -49,7 +49,7 @@ msgid "PREVIEW_EXTRA_DESC_EXPLANATION"
 msgstr "Ce texte sera affiché lorsque les spectateurs cliqueront sur 'Voir plus' dans la description de votre vidéo."
 
 msgid "TAGS"
-msgstr "Tags"
+msgstr "Mot-clés"
 
 msgid "NONE"
 msgstr "Aucun"
