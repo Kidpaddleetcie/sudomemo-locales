@@ -4,47 +4,47 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "ABOUT"
-msgstr "About"
+msgstr "À propos"
 
 # Keep ALL_FLIPNOTES_FOLDER under 7 characters.
 msgid "ALL_FLIPNOTES_FOLDER"
-msgstr "All"
+msgstr "Toutes"
 
 msgid "BUTTON_ALL_SETTINGS"
-msgstr "View All Settings"
+msgstr "Voir toutes les options"
 
 msgid "BUTTON_BACK"
-msgstr "Back"
+msgstr "Retour"
 
 msgid "BUTTON_CLOSE_PLAYER"
-msgstr "Close Player"
+msgstr "Fermer le joueur"
 
 msgid "BUTTON_CLOSE_SETTINGS"
-msgstr "Close Settings"
+msgstr "Fermer les options"
 
 msgid "BUTTON_DIGITAL_SHIFT"
-msgstr "Shift"
+msgstr "Changer"
 
 msgid "BUTTON_TO_TOP"
-msgstr "Top"
+msgstr "Haut"
 
 msgid "CREDITS"
 msgstr "Credits"
 
 msgid "CREDITS_CREATOR"
-msgstr "Created by King Mayro"
+msgstr "Créé par King Mayro"
 
 msgid "CREDITS_SPECIAL_THANKS"
-msgstr "Special Thanks"
+msgstr "Remerciements spéciaux"
 
 msgid "DONT_SHOW_NOTICE_AGAIN"
-msgstr "Please don't show this again"
+msgstr "Merci de ne pas remontrer ça" 
 
 msgid "DUPLICATES"
-msgstr "Duplicates"
+msgstr "Dupliquer"
 
 msgid "DUPLICATE_INSIDE_FOLDER"
-msgstr "Inside:"
+msgstr "L'intérieur:"
 
 msgid "FLIPNOTE"
 msgstr "Flipnote"
@@ -53,107 +53,107 @@ msgid "FLIPNOTE_AMOUNT"
 msgstr "Flipnotes"
 
 msgid "FLIPNOTE_DETAILS_AUTHOR"
-msgstr "Creator:"
+msgstr "Createur:"
 
 msgid "FLIPNOTE_ORGANIZER"
-msgstr "Flipnote Organizer"
+msgstr "Organisateur de Flipnote"
 
 msgid "FLIPNOTE_ORGANIZER_SECONDARY_TAGLINE"
-msgstr "Sort, view, search, and watch your downloaded Flipnotes!"
+msgstr "Triez,voyez,recherchez et regardez vos Flipnotes téléchargées !"
 
 msgid "FLIPNOTE_ORGANIZER_TAGLINE"
-msgstr "Keep your Flipnotes and folders nice and tidy with the Flipnote Organizer!"
+msgstr "Gardez vos Flipnotes et dossiers propres et soignés avec l'Organisateur de Flipnote !"
 
 # Treat these as if they have a number attatched.
 msgid "FOLDER"
-msgstr "folder"
+msgstr "dossier"
 
 msgid "FOLDER_AMOUNT"
-msgstr "folders"
+msgstr "dossiers"
 
 msgid "FOLDER_NOTE"
-msgstr "You can find your Flipnote folder at %s"
+msgstr "Vous pouvez trouver votre dossier de Flipnote à %s"
 
 msgid "FOLDER_NOTE_DONT_WORRY"
-msgstr "Your Flipnotes are not uploaded or stored; they are loaded locally."
+msgstr "Vos Flipnotes ne sont pas publiées ou enregistrés; Elles sont chargées localement."
 
 msgid "FOLDER_NOTE_WIIMOTE_CANT_SELECT"
-msgstr "A mouse must be used to select your Flipnote folder due to browser permissions."
+msgstr "Une souris doit être utiliser pour sélectionner votre dossier Flipnote à cause des permissions du navigateur."
 
 msgid "FOLDER_SELECTOR"
-msgstr "Click or drag and drop a folder in here!"
+msgstr "Cliquez ou attrapez et relachez un dossier là-dedans !"
 
 msgid "FOLDER_SELECTOR_NO_DRAG"
-msgstr "Click here to load a folder!!!"
+msgstr "Cliquez ici pour charger un dossier !!!"
 
 msgid "HOW_TO_USE"
-msgstr "How to Use"
+msgstr "Mode d'emploi"
 
 msgid "IMPORTANT"
-msgstr "Important:"
+msgstr "Important :"
 
 msgid "JAVASCRIPT_NEEDED"
-msgstr "The Flipnote Organizer requires Javascript to run."
+msgstr "L'Organisateur de Flipnote nécessite Javascript pour fonctionner."
 
 msgid "JAVASCRIPT_PLEAE_ENABLE"
-msgstr "Please enable Javascript within your browsers settings."
+msgstr "S'il-vous-plait, activez Javascript dans les paramètres de votre navigateur."
 
 msgid "LINKS"
-msgstr "Links"
+msgstr "Liens"
 
 msgid "LISTING_ALL_FLIPNOTES"
-msgstr "All Flipnotes"
+msgstr "Toutes les Flipnotes"
 
 msgid "LISTING_NO_SEARCH_RESULTS"
-msgstr "No Results..."
+msgstr "Pas de résultat ..."
 
 msgid "LISTING_SEARCH_RESULTS"
-msgstr "Search Results"
+msgstr "Résultats de recherche"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Suivant"
 
 msgid "NO"
-msgstr "No"
+msgstr "Non"
 
 msgid "NO_THANKS"
-msgstr "No thanks"
+msgstr "Non merci"
 
 msgid "OK"
 msgstr "OK"
 
 msgid "PREV"
-msgstr "Prev"
+msgstr "Pre"
 
 msgid "PREVIOUS"
-msgstr "Previous"
+msgstr "Précédent"
 
 msgid "SEARCH"
-msgstr "Search"
+msgstr "Rechercher"
 
 msgid "SEARCH_FILTERS"
-msgstr "Search Filters"
+msgstr "Filtre de recherche"
 
 msgid "SEARCH_FILTER_LOCKED"
-msgstr "Locked"
+msgstr "Verouiller"
 
 msgid "SEARCH_FILTER_LOCKED_OPTION_UNLOCKED"
-msgstr "Unlocked"
+msgstr "Déverouiller"
 
 msgid "SEARCH_FILTER_OPTION_ANY"
-msgstr "Any"
+msgstr "Tout"
 
 msgid "SEARCH_FILTER_SPINOFF"
-msgstr "Spinoff"
+msgstr "Dérivé"
 
 msgid "SEARCH_PLACEHOLDER"
-msgstr "Enter a Creator, FSID, or use filters"
+msgstr "Entrez un Créateur, un FSID, ou utilisez des filtres"
 
 msgid "SEARCH_RESULTS_FOLDER"
-msgstr "Results"
+msgstr "Résultats"
 
 msgid "SEARCH_TITLE"
-msgstr "Search Flipnotes"
+msgstr "Rechercher des Flipnotes"
 
 msgid "SEARCH_WAITING"
 msgstr "Indexing Flipnotes, this may take some time depending on how many Flipnotes you have..."
