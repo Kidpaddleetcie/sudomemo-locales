@@ -38,7 +38,7 @@ msgid "CREDITS_SPECIAL_THANKS"
 msgstr "Remerciements spéciaux"
 
 msgid "DONT_SHOW_NOTICE_AGAIN"
-msgstr "Merci de ne pas remontrer ça" 
+msgstr "Merci de ne pas remontrer ça"
 
 msgid "DUPLICATES"
 msgstr "Dupliquer"
